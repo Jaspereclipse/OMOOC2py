@@ -1,8 +1,11 @@
 {
-    "plugins": ["disqus"],
+    "plugins": [
+        "disqus",
+        "comscore"
+    ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "jasperspythonicjourney"
         }
-    }  
+    }
 }
