@@ -1,7 +1,7 @@
 {
     "plugins": [
         "disqus",
-        "comscore"
+        "comscore@0.0.3"
     ],
     "pluginsConfig": {
         "disqus": {
