@@ -1,7 +1,7 @@
 {
     "plugins": [
         "disqus",
-        "KaTeX"
+        "ketex"
     ],
     "pluginsConfig": {
         "disqus": {
