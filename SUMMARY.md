@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [1. 教学反转](0MOOC/README.md)
+* [教学反转](0MOOC/README.md)
    * [Use of Gitbook](0MOOC/w0.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
