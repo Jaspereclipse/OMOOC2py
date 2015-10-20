@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
    * [Gitbook使用](0MOOC/w0.md)
-   * GitHub
+   * [GitHub](0MOOC/githubUse.md)
 * [基础旋进](1sTry/README.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
