@@ -40,6 +40,16 @@ Then I copied into Github/setting/SSH/Add Key under my `Github` account.
 Note that I don't have to change the above code to run the test.
 
 
+###6. How to use it?
+
+One of the problem I encounter is that I don't know what to do after I set everything. Later I realized that I was still using `https` protocol to `git add` and `git push` things instead of doing it via `SSH`. 
+
+The idea is simple: re-pull the repo using `SSH` protocol:
+
+```bash
+$ git pull git@github.com:jaspereclipse/stat243.git
+```
+
 
 
 
