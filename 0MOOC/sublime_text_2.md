@@ -4,6 +4,8 @@
 
 ##Installation
 
+###apt-get method
+
 [Install via the Package Manager(apt-get)](http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3)
 
 ```bash
