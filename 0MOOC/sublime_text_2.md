@@ -14,7 +14,7 @@ sudo apt-get install sublime-text
 
 ###Open Sublime Text from bash shell
 
-Copy and paste:
+Just copy and paste:
 
 ```bash
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
