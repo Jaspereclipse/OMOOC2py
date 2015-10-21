@@ -11,3 +11,17 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-2
 sudo apt-get update
 sudo apt-get install sublime-text
 ```
+
+###Open Sublime Text from bash shell
+
+Copy and paste:
+
+```bash
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+```
+Then you can use `subl` in bash to open it.
+
+##Package control
+
+It is a very handy tool to manage the packages for Sublime Text. Install it for your Sublime Text using with the [link](https://packagecontrol.io/installation#Simple) here.
+
