@@ -49,8 +49,7 @@ The idea is simple: re-pull the repo using `SSH` protocol:
 ```bash
 $ git pull git@github.com:jaspereclipse/stat243.git
 ```
-
-
+I only need to input my password once and for all.
 
 
 
