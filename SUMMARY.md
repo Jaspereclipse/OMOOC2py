@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [教学反转](0MOOC/README.md)
-   * [Gitbook使用](0MOOC/w0.md)
+   * [Gitbook](0MOOC/w0.md)
    * [GitHub](0MOOC/githubUse.md)
    * [Sublime Text 2](0MOOC/sublime_text_2.md)
 * [基础旋进](1sTry/README.md)
