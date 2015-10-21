@@ -4,4 +4,4 @@
 
 ## 进展
 
-- 150924 大妈创建
+- Getting started
