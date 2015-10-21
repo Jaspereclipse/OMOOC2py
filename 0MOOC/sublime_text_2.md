@@ -14,7 +14,7 @@ sudo apt-get update
 sudo apt-get install sublime-text
 ```
 
-###Open Sublime Text from bash shell
+###Open Sublime Text 2 from bash shell
 
 Just copy and paste:
 
@@ -25,5 +25,28 @@ Then you can use `subl` in bash to open it.
 
 ##Package control
 
+###Installation
+
 It is a very handy tool to manage the packages for Sublime Text. Install it for your Sublime Text using with the [link](https://packagecontrol.io/installation#Simple) here.
 
+###Some useful packages
+
+Below are some packages I installed:
+```jason
+"installed_packages":
+[
+	"All Autocomplete",
+	"Package Control",
+	"SublimeCodeIntel",
+	"Theme - Soda",
+	"Tomorrow Color Schemes"
+]
+```
+I haven't tried all out yet.
+
+###Configuration
+
+
+
+
+	
