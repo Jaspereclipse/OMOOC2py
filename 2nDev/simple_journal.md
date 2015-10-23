@@ -22,7 +22,7 @@ def main():
             break
         Msg += '\n'
         f.write(Msg)
-    f.close()
+    f.close() #Close the connection
 
 if __name__=="__main__":
     main()
