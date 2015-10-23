@@ -44,4 +44,4 @@ import sys
 print sys.getfilesystemencoding()
 print sys.getdefaultencoding()
 ```
-The former one returns `UTF-8`, while the latter returns `ascii`
+The former one returns `UTF-8`, while the latter returns `ascii`. Same results after I change the encoding.
