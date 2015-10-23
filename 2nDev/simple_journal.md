@@ -7,7 +7,7 @@ References:
 3. Introduction to **file editing mode**: [stackoverflow: difference between modes a, a+, w, w+, and r+?](http://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-r)
 4. **Date & Time** format: [strftime](http://strftime.org/)
 
-5. Outstanding work by [wp-lai](https://wp-lai.gitbooks.io/learn-python/content/2nDev/diary.html)
+5. Outstanding works by [wp-lai](https://wp-lai.gitbooks.io/learn-python/content/2nDev/diary.html)
 
 ##V-0.0
 
