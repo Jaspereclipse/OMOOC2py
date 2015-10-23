@@ -8,7 +8,7 @@ References:
 4. **Date & Time** format: [strftime](http://strftime.org/)
 
 
-##v-0.0
+##V-0.0
 
 ###Basic realization
 
@@ -48,4 +48,8 @@ print sys.getdefaultencoding()
 ```
 The former one returns `UTF-8`, while the latter returns `ascii`. Same results after I change the encoding.
 
+
+##V-1.0
+
+###Markdown format
 
