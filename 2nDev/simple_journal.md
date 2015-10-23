@@ -13,7 +13,7 @@ def main():
     f = open('journal.txt','a+') #Create a file or append on it
     for line in f:
         print line #Print the previously written journals
-    now = time.strftime("%c")
+    now = time.strftime("%c") #Add current data & time before start writing
     now += '\n'
     f.write(now)
     while 1:
