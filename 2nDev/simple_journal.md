@@ -10,7 +10,7 @@ References:
 5. Outstanding works by [wp-lai](https://wp-lai.gitbooks.io/learn-python/content/2nDev/diary.html)
 
 6. **Color** setting in Ubuntu Terminal: [(1) Enable Colorful Terminal in Debian and Ubuntu](https://scottlinux.com/2013/07/08/enable-colorful-terminal-in-debian-and-ubuntu/)
-
+(2) 
 ##V-0.0
 
 ###Basic realization
