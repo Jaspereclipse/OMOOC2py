@@ -17,8 +17,8 @@ def main():
     now += '\n'
     f.write(now)
     while 1:
-        Msg = raw_input()
-        if Msg == 'q':
+        Msg = raw_input() 
+        if Msg == 'q': #Waiting for user's input unless q(quit)
             break
         Msg += '\n'
         f.write(Msg)
