@@ -52,4 +52,4 @@ The former one returns `UTF-8`, while the latter returns `ascii`. Same results a
 ##V-1.0
 
 ###Markdown format
-This is inspired by [wp-lai](https://wp-lai.gitbooks.io/learn-python/content/2nDev/diary.html)
+This is inspired by [wp-lai](https://wp-lai.gitbooks.io/learn-python/content/2nDev/diary.html). I tried to reproduce what he has accomplished.
