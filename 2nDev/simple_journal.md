@@ -3,7 +3,7 @@
 References:
 
 1. How to set encoding: [PEP 0263 -- Defining Python Source Code Encodings](https://www.python.org/dev/peps/pep-0263/)
-2. 
+2. Useful introduction to string operations: [string — Common string operations](https://docs.python.org/2/library/string.html)
 
 ##v-0.0
 
@@ -30,3 +30,4 @@ def main():
 if __name__=="__main__":
     main()
 ```
+
