@@ -6,7 +6,7 @@ def main():
     dir = '/home/oski/OMOOC2py/_src/om2py0w/0wex1/Jaspers_Journal.md'
     f = open(dir,'a+')
     print f.read()
-    headertime = "{0:*^50}"
+    headertime = "{}"
     s = '##' + time.strftime("%c")
     now = headertime.format(s)
     Msg = ''
