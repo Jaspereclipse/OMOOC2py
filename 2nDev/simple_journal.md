@@ -38,3 +38,10 @@ The question I have while implementing the code above is:
 
 *Even if I did not set the encoding as `utf-8`, I got the right output anyway for Chinese input.*
 
+I test something like this:
+```python
+import sys
+print sys.getfilesystemencoding()
+print sys.getdefaultencoding()
+```
+The former one returns `UTF-8`, while the latter returns `ASCII`
