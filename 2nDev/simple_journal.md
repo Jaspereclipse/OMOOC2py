@@ -34,3 +34,7 @@ if __name__=="__main__":
     main()
 ```
 
+The question I have while implementing the code above is:
+
+*Even if I did not set the encoding as `utf-8`, I got the right output anyway for Chinese input.*
+
