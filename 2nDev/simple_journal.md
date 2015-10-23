@@ -4,7 +4,7 @@ References:
 
 1. How to set encoding: [PEP 0263 -- Defining Python Source Code Encodings](https://www.python.org/dev/peps/pep-0263/)
 2. Useful introduction to string operations: [string — Common string operations](https://docs.python.org/2/library/string.html)
-3. Introduction to file editing mode: 
+3. Introduction to file editing mode: [stackoverflow: difference between modes a, a+, w, w+, and r+?](http://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-r)
 4. Date & Time format: [strftime](http://strftime.org/)
 
 
